@@ -42,7 +42,7 @@ class HalphaDataset(mrcnn.utils.Dataset):
             row_s, row_e = box[1], box[3]
             col_s, col_e = box[0], box[2]
             masks[row_s:row_e, col_s:col_e, i] = 1
-            class_ids.append(self.class_names.index('kangaroo'))
+            class_ids.append(self.class_names.index('Halpha'))
         return masks, asarray(class_ids, dtype='int32')
 
     # A helper method to extract the bounding boxes from the annotation file
