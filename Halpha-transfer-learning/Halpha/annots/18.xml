@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>+0+3.jpeg</filename>
+	<path>/my-project-name/+0+3.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>20293</width>
+		<height>21366</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Halpha</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>8752</xmin>
+			<ymin>15808</ymin>
+			<xmax>11917</xmax>
+			<ymax>20272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Halpha</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>11260</xmin>
+			<ymin>5613</ymin>
+			<xmax>11827</xmax>
+			<ymax>6061</ymax>
+		</bndbox>
+	</object>
+</annotation>
