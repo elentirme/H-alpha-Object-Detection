@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>48.jpeg</filename>
+	<path>/my-project-name/48.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>748</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Halpha</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>175</ymin>
+			<xmax>789</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Halpha</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>208</ymin>
+			<xmax>893</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>
